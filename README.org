@@ -4,6 +4,6 @@ GTK4/Libadwaita/WebKit2 bindings for Common Lisp.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/cl-gtk4.git |
-| commit  | ff60e34                                        |
+| commit  | 9f62d51                                        |
 | systems | cl-gtk4 cl-gdk4 ck-gtk4.adw cl-gtk4.webkit2    |
 |---------+------------------------------------------------|
